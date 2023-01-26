@@ -1,0 +1,37 @@
+[Box: ::maze - ::hevs.network.client::GameClient]
+X=731
+Y=745
+Visible=0
+
+[Box: ::maze - ::maze.data::MazeContainer]
+X=146
+Y=85
+
+[Box: ::maze - ::maze.display::GraphicDisplay]
+X=134
+Y=332
+
+[Box: ::maze - ::maze.display::KeyboardListener]
+X=444
+Y=61
+
+[Box: ::maze - ::maze::MazeGame]
+X=471
+Y=380
+
+[Box: ::maze - ::maze::MazeGame_BEGIN]
+X=751
+Y=264
+Visible=0
+
+[Box: ::maze - ::maze::MazeNetworkGame]
+X=479
+Y=744
+Visible=0
+
+[Diagram: ::maze]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
