@@ -1,6 +1,12 @@
-# A* pathfinding project :cyclone:
+# A* pathfinding project
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+<p align="center">
+  <a href="https://hevs.ch/isc">
+  <img src="https://user-images.githubusercontent.com/4624112/214767043-bc3fec9c-1e6f-4123-a003-cd32426518dc.png"/>    
+  </a>
+</p>
 
 ## Content
 This projet file is a skeleton for implementing the short version of the Maze pathfinding (A*) application in Java. 
