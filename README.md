@@ -2,7 +2,9 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+<p align="center">
 ![Animated maze](img/maze.gif)
+</p>
 
 ## Content
 This projet file is a skeleton for implementing the short version of the Maze pathfinding using the `A*` algorithm application in Java.
