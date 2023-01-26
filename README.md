@@ -8,10 +8,10 @@
 This projet file is a skeleton for implementing the short version of the Maze pathfinding using the `A*` algorithm application in Java.
 
 ## Project description and tasks to do
-The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://github.com/pmudry/maze-students/blob/main/ProjetMaze_short.pdf) file with clickable links.
+The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://github.com/ISC-HEI/maze-students/blob/main/ProjetMaze%20shorter.pdf) file with clickable links.
 
 ## Audience
-This bot is targeted at students with an existing background in programming, mainly in Java. It was made to demonstrate the algorithmic approach of solving a problem which is taught in the [*Computer science and communication* bachelor's degree at the School of engineering in Sion, Switzerland](https://www.hevs.ch/isc).
+This code is targeted at students with an existing background in programming, mainly in Java. It was made to demonstrate the algorithmic approach of solving a problem which is taught in the [*Computer science and communication* bachelor's degree at the School of engineering in Sion, Switzerland](https://www.hevs.ch/isc).
 
 <p align="center">
   <a href="https://hevs.ch/isc">
