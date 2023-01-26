@@ -2,14 +2,10 @@
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<p align="center">
-  <a href="https://hevs.ch/isc">
-  <img src="https://user-images.githubusercontent.com/4624112/214767043-bc3fec9c-1e6f-4123-a003-cd32426518dc.png"/>    
-  </a>
-</p>
+![Animated maze](img/maze.gif)
 
 ## Content
-This projet file is a skeleton for implementing the short version of the Maze pathfinding using the `A*` algorithm application in Java. 
+This projet file is a skeleton for implementing the short version of the Maze pathfinding using the `A*` algorithm application in Java.
 
 ## Project description and tasks to do
 The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://github.com/pmudry/maze-students/blob/main/ProjetMaze_short.pdf) file with clickable links.
