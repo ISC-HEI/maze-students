@@ -12,7 +12,7 @@
 This projet file is a skeleton for implementing the short version of the Maze pathfinding (A*) application in Java. 
 
 ## Project description and tasks to do
-The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://inf1.begincoding.net/telebot.pdf) file with clickable links.
+The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://github.com/pmudry/maze-students/blob/main/ProjetMaze_short.pdf) file with clickable links.
 
 ## Audience
 This bot is targeted at students with an existing background in programming, mainly in Java. It was made to demonstrate the algorithmic approach of solving a problem which is taught in the [*Computer science and communication* bachelor's degree at the School of engineering in Sion, Switzerland](https://www.hevs.ch/isc).
