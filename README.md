@@ -1,4 +1,4 @@
-# A* pathfinding project
+# `A*` pathfinding project
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -9,7 +9,7 @@
 </p>
 
 ## Content
-This projet file is a skeleton for implementing the short version of the Maze pathfinding (A*) application in Java. 
+This projet file is a skeleton for implementing the short version of the Maze pathfinding using the `A*` algorithm application in Java. 
 
 ## Project description and tasks to do
 The project is not complete and is intented to be completed in a live coding session. The full project instructions, in French, is available [as a PDF](https://github.com/pmudry/maze-students/blob/main/ProjetMaze_short.pdf) file with clickable links.
