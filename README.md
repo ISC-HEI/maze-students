@@ -3,7 +3,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 <p align="center">
-![Animated maze](img/maze.gif)
+<img src="https://github.com/ISC-HEI/maze-students/blob/main/img/maze.gif"/>
 </p>
 
 ## Content
